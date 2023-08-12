@@ -1,4 +1,5 @@
 <b>Project</b> <br>
+⭐<b>Responsive for phone screen also<br>
 ⭐<b>Tech stack used</b>: <br>
      ⭐Mongodb<br>
      ⭐Express<br>
